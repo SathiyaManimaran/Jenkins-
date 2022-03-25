@@ -4,11 +4,8 @@ public class sampple
 {
 	public static void main(String args[])
 		{
-<<<<<<< HEAD
-			System.out.println("Hello world 1234 !!");
-=======
-			System.out.println("Hello world 1235 !!");
->>>>>>> feature2
+
+			System.out.println("Hello world 12345 !!");
 		}
 }
 
